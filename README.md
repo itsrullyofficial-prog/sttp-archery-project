@@ -14,4 +14,4 @@ This project is a responsive website for STTP Archery Club.
 - JavaScript
 
 ## Live Website
-( https://itsrullyofficial-prog.github.io/sttp-archery-project/)
+(https://itsrullyofficial-prog.github.io/sttp-archery-project/)
